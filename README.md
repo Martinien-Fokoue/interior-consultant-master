@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Interior Consultant Master</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-master-git-master.martinien-fokoue.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -49,7 +49,9 @@ _Mobile View_
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo? <a href="https://interior-consultant-master-git-master.martinien-fokoue.vercel.app/">
+      Live Demo
+    </a>
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
